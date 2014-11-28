@@ -10,6 +10,10 @@ h1{
     text-align: center;
 }
 
+#fullname{
+    color: maroon;
+}
+
 #welcomeMessage{
     background-color: darkslategray;
     border: solid 30px chocolate;
