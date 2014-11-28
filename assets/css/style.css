@@ -15,6 +15,7 @@ h1{
     border: solid 30px chocolate;
     border-radius: .5em;
     color: white;
+    font-style: italic;
     font-size: 2em;
     font-weight: bold;
     margin: 20px auto;
