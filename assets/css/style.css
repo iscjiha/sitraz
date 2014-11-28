@@ -9,3 +9,17 @@ h1{
     color: powderblue;
     text-align: center;
 }
+
+#welcomeMessage{
+    background-color: darkslategray;
+    border: solid 30px chocolate;
+    border-radius: .5em;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 20px auto;
+    padding: 5em;
+    text-align: center;
+    text-transform: uppercase;
+    width: 50%;
+}
