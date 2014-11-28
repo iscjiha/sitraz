@@ -6,7 +6,22 @@ body{
 }
 
 h1{
-    color: powderblue;
+    color: darkgreen;
+    margin: 0;
+    text-align: center;
+}
+
+header{
+    background-color: #ccc;    
+}
+
+footer{
+    background-color: black;
+    padding: 1em;
+}
+
+footer p{
+    color: #fff;
     text-align: center;
 }
 
@@ -16,14 +31,14 @@ h1{
 
 #welcomeMessage{
     background-color: darkslategray;
-    border: solid 30px chocolate;
+    border: solid 1em chocolate;
     border-radius: .5em;
     color: white;
     font-style: italic;
     font-size: 2em;
     font-weight: bold;
-    margin: 20px auto;
-    padding: 5em;
+    margin: 1.5em auto;
+    padding: 3em;
     text-align: center;
     text-transform: uppercase;
     width: 50%;
